@@ -31,8 +31,7 @@ I'm a passionate Software Engineer with a strong focus on .NET technologies, dri
 
 ## 📬 Get in Touch
 - Connect with me on [LinkedIn](www.linkedin.com/in/muzammilismail8)
-Explore my work on GitHub
-Reach out via email: muzammilismail8@gmail.com
+- Explore my work on GitHub
+- Reach out via email: muzammilismail8@gmail.com
 
 Thanks for stopping by! Let’s connect and explore the fascinating world of technology together. 🚀
-
