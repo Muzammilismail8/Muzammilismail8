@@ -14,7 +14,7 @@ I'm a passionate Software Engineer with a strong focus on .NET technologies, dri
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,js,ts,jquery,angular,postgres,postman,visualstudio,vscode,bitbucket,firebase)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀 Diving deeper into Full Stack Web Development, particularly:
