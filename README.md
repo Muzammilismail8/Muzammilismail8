@@ -1,8 +1,6 @@
 #Hi, I'm Muzammil Ismail! 👋
 I'm a passionate Software Engineer with a strong focus on .NET technologies, driven by curiosity and a relentless desire to solve complex problems. My journey in tech has been fueled by a love for learning and a commitment to excellence, making me a fast learner and a dedicated professional.
 
-![Muzammil's Stats](https://github-readme-stats.vercel.app/api?username=muzammilismail8&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ##🚀 About Me
 - 🌱 I’m currently working as a .NET Core Developer at Reacon Group, leading integrations and enhancing CRM systems with cutting-edge technologies.
 - 🏆 I have a proven track record of developing web applications from scratch, optimizing databases, and implementing RESTful APIs.
